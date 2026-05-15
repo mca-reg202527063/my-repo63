@@ -1,3 +1,5 @@
+//This is the test line to update the commit changes
+
 'use strict'
 
 function isArguments (thingy) {
